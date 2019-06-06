@@ -1,1 +1,1 @@
-# PHANTOM-Fstar
+# PHANTOM Functional Implementation
